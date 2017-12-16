@@ -5,7 +5,8 @@ Welcome to OttoLearning's documentation!
 
 .. toctree::
    :maxdepth: 2
-    aboutUs
+
+   aboutUs
 
 
 

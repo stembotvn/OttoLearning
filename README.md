@@ -10,7 +10,7 @@ http://ottolearning.rtfd.io/
 
 * Install Python 2.7: https://www.python.org/downloads/
 
-Using Command Line or Window PowerShell:
+Using Command Line (Press: Window + R and type: cmd) or Window PowerShell
 
 
 * install pip, type command:  ``pip install sphinx sphinx_rtd_theme==0.2.5b1 sphinxcontrib.youtube``

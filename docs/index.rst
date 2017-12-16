@@ -6,6 +6,7 @@ Welcome to OttoLearning's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   aboutUs
 
 
 

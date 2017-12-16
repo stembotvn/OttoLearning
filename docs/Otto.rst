@@ -1,3 +1,3 @@
 #############
-OTTO DIY - AN FUN BIPED OPENSOURCE ROBOT 
+OTTO DIY - Getting Started 
 #############

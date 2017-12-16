@@ -7,6 +7,7 @@ Welcome to OttoLearning's documentation!
    :maxdepth: 2
 
    aboutUs
+   Otto
 
 
 

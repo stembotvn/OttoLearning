@@ -21,7 +21,7 @@ Using Command Line (Press: Window + R and type: cmd) or Window PowerShell
 Writing
 ========
 * Fork this project to your github account and set up your desktop Git Repository
-* Learn about `reStructuredText <http://www.sphinx-doc.org/en/stable/rest.html>`_
+* Learn about reStructuredText:  http://www.sphinx-doc.org/en/stable/rest.html
 * Write the the content of .rst files inside folder /docs/:  https://github.com/stembotvn/OttoLearning/tree/master/docs
 
 * Commit và push to your repository

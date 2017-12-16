@@ -4,6 +4,7 @@
    contain the root `toctree` directive.
 
 Welcome to OttoLearning's documentation!
+The Easy STEM education opensource doccument for make low cost Class
 ========================================
 
 .. toctree::

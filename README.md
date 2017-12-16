@@ -9,13 +9,14 @@ http://ottolearning.rtfd.io/
 ### Setup Tools
 
 * Install Python 2.7: https://www.python.org/downloads/
+
 Using Command Line or Window PowerShell:
 
 
-* install pip ``pip install sphinx sphinx_rtd_theme==0.2.5b1 sphinxcontrib.youtube``
-* Press enter for accept default setting in setting progress
-* type command ``make livehtml`` 
-* Access: http://localhost:8000
+* install pip, type command:  ``pip install sphinx sphinx_rtd_theme==0.2.5b1 sphinxcontrib.youtube``
+* Press enter to accept all default setting in setting progress
+* type command: ``make livehtml`` to build your offline docs web
+* Access: http://localhost:8000   to view your result 
 
 Writing
 ========

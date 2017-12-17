@@ -5,27 +5,6 @@ This repository is a source of the online doccument web, build with Sphinx via R
 
 http://ottolearning.rtfd.io/
 
-## For contributing to build lessons
-### Setup Tools
 
-* Install Python 2.7: https://www.python.org/downloads/
-
-Using Command Line (Press: Window + R and type: cmd) or Window PowerShell
-
-
-* install pip, type command:  ``pip install sphinx sphinx_rtd_theme==0.2.5b1 sphinxcontrib.youtube``
-* Press enter to accept all default setting in setting progress
-* type command: ``make livehtml`` to build your offline docs web
-* Access: http://localhost:8000   to view your result 
-
-Writing
-========
-* Fork this project to your github account and set up your desktop Git Repository
-* Learn about reStructuredText:  http://www.sphinx-doc.org/en/stable/rest.html
-* Write the the content of .rst files inside folder /docs/:  https://github.com/stembotvn/OttoLearning/tree/master/docs
-
-* Commit và push to your repository
-* Make pull-request to this repository
-* Contact me for adding to collaborator if you familiar with Sphinx docs. 
 
 
